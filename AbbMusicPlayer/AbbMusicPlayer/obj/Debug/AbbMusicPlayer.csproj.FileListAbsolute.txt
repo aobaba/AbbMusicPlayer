@@ -1,0 +1,14 @@
+F:\Visual Studio 2013\Projects\AbbMusicPlayer\AbbMusicPlayer\bin\Debug\AbbMusicPlayer.exe.config
+F:\Visual Studio 2013\Projects\AbbMusicPlayer\AbbMusicPlayer\bin\Debug\AbbMusicPlayer.exe
+F:\Visual Studio 2013\Projects\AbbMusicPlayer\AbbMusicPlayer\bin\Debug\AbbMusicPlayer.pdb
+F:\Visual Studio 2013\Projects\AbbMusicPlayer\AbbMusicPlayer\bin\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2013\Projects\AbbMusicPlayer\AbbMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2013\Projects\AbbMusicPlayer\AbbMusicPlayer\obj\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2013\Projects\AbbMusicPlayer\AbbMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2013\Projects\AbbMusicPlayer\AbbMusicPlayer\obj\Debug\AbbMusicPlayer.csproj.ResolveComReference.cache
+F:\Visual Studio 2013\Projects\AbbMusicPlayer\AbbMusicPlayer\obj\Debug\AbbMusicPlayer.Form1.resources
+F:\Visual Studio 2013\Projects\AbbMusicPlayer\AbbMusicPlayer\obj\Debug\AbbMusicPlayer.Properties.Resources.resources
+F:\Visual Studio 2013\Projects\AbbMusicPlayer\AbbMusicPlayer\obj\Debug\AbbMusicPlayer.csproj.GenerateResource.Cache
+F:\Visual Studio 2013\Projects\AbbMusicPlayer\AbbMusicPlayer\obj\Debug\AbbMusicPlayer.exe
+F:\Visual Studio 2013\Projects\AbbMusicPlayer\AbbMusicPlayer\obj\Debug\AbbMusicPlayer.pdb
+F:\Visual Studio 2013\Projects\AbbMusicPlayer\AbbMusicPlayer\obj\Debug\AbbMusicPlayer.csprojResolveAssemblyReference.cache
